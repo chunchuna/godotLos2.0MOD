@@ -1,0 +1,8 @@
+extends Node2D
+var name_ ="name"  #Mod 名
+var version =1.0		# Mod 版本
+
+
+
+func _ready():
+	print("Mods_#2020/10/22\n"+name_+"\n"+str(version)+"\n")
